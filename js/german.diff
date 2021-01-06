@@ -1,0 +1,22 @@
+--- translations.js	2020-07-26 11:17:12.774067226 +0200
++++ translations.js	2020-07-28 06:53:56.552102050 +0200
+@@ -50,5 +50,19 @@
+ 		attempting: 	'Intentando',
+ 		send: 			'Enviar',
+ 		webrtc_error:	'Algo salió mal con WebRTC. Ya sea que su navegador no es compatible con las funciones necesarias para WebRTC, no ha autorizado que su navegador acceda al micrófono, o existe un problema en la configuración. Por favor, revise la consola de error de su navegador para obtener más detalles. Para revisar la lista de navegadores compatibles, visite http://webrtc.org',		
++	},
++	// German - Deutsch
++	de: {
++		registered: 	'registriert',
++		unregistered:	'nicht registriert',
++		connecting: 	'verbinde...',
++		disconnected: 	'unterbrochen',
++		connected: 		'verbunden',
++		register_failed: 'Reg. fehlerhaft',
++		incall: 		'Anruf',
++		ringing: 		'klingeln',
++		attempting: 	'versuche',
++		send: 			'senden',
++		webrtc_error:	'Etwas ist mit WebRTC schief gelaufen. Entweder unterstützt Ihr Browser die notwendigen WebRTC-Funktionen nicht, Sie haben Ihrem Browser nicht erlaubt, auf das Mikrofon zuzugreifen, oder es gibt ein Konfigurationsproblem. Bitte überprüfen Sie die Fehlerkonsole Ihres Browsers für weitere Einzelheiten. Für eine Liste der kompatiblen Browser besuchen Sie bitte http://webrtc.org/', 
+ 	}
+ }
