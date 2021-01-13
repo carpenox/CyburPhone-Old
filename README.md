@@ -10,3 +10,4 @@ This code is a fork from the original code by Michael Cargile (https://github.co
 - Can call the agent instantly after the webphone has loaded (like a regular softphone), saving time and human error.
 
 Several other improvements can be read in the commits logfile.
+
