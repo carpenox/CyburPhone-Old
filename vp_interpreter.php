@@ -3,10 +3,10 @@
 // default VICIphone variables
 $layout = "css/default.css";
 $cid_name = "1000";
-$sip_uri = "1000@107.178.61.80";
+$sip_uri = "1000@yourip";
 $auth_user = "1000";
-$password = "orange22";
-$ws_server = "wss://axis.contactcentersrus.com:8089/ws";
+$password = "";
+$ws_server = "wss://yourdomain.com:8089/ws";
 $debug_enabled = false;
 $hide_dialpad = false;
 $hide_dialbox = false;
