@@ -1,4 +1,5 @@
-# ViciPhone 2.0
+# CyburPhone 2.5 based off ViciPhone 
+
 An improved webphone for the Vicidial Call Center Suite.
 
 This code is a fork from the original code by Michael Cargile (https://github.com/vicimikec/ViciPhone), and as such contains the following enhancements:
