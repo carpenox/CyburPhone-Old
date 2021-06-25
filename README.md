@@ -19,18 +19,18 @@ Can display alpha characters inside DTMF buttons for easier typing inside IVRs
 WebRTC template
 To use it on Vicidial, you must set up a webrtc template as follows:
 
-type=friend
-host=dynamic
-encryption=yes
-icesupport=yes
-directmedia=no
-transport=wss
-dtlsenable=yes
-dtlsverify=no
-dtlscertfile=/PATH/TO/YOUR/SSL/CERT
-dtlsprivatekey=/PATH/TO/YOU/SSL/KEY
-dtlssetup=actpass
-rtcp_mux=yes
+- type=friend
+- host=dynamic
+- encryption=yes
+- icesupport=yes
+- directmedia=no
+- transport=wss
+- dtlsenable=yes
+- dtlsverify=no
+- dtlscertfile=/PATH/TO/YOUR/SSL/CERT
+- dtlsprivatekey=/PATH/TO/YOU/SSL/KEY
+- dtlssetup=actpass
+- rtcp_mux=yes
 
 *The field rtcp_mux is the most important change since Viciphone 1.0, so that is a must.
 
