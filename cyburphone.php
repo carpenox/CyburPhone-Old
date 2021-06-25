@@ -70,7 +70,7 @@ $options 		= base64_decode($options);
 
 // Encryption check
 // Get remote address
-$referring_url = "https://cyburdial.com";
+$referring_url = "https://cyburdial.net";
 if (!empty($_SERVER['HTTP_REFERER'])) {
 	$referring_url = $_SERVER['HTTP_REFERER'];
 }
