@@ -79,7 +79,7 @@ var mediaConstraints;
 var call_timestamp = 0;
 
 var ua_config = {
-	userAgentString: 'VICIphone 2.1',
+	userAgentString: 'CyburPhone 3.0',
 	displayName: cid_name,
 	uri: sip_uri,
 	hackIpInContact: true,
